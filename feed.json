@@ -1,0 +1,42 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "ITFORVN Statics Blog Site",
+    "description": "",
+    "home_page_url": "https://vanlong2k.github.io/itforvn-blog-statics",
+    "feed_url": "https://vanlong2k.github.io/itforvn-blog-statics/feed.json",
+    "user_comment": "",
+    "icon": "https://vanlong2k.github.io/itforvn-blog-statics/media/website/LogoTop.png",
+    "author": {
+        "name": "ITFORVN"
+    },
+    "items": [
+        {
+            "id": "https://vanlong2k.github.io/itforvn-blog-statics/windows.html",
+            "url": "https://vanlong2k.github.io/itforvn-blog-statics/windows.html",
+            "title": "Windows",
+            "summary": "THIS POST IS IN WINDOWS CATAGORY",
+            "content_html": "THIS POST IS IN WINDOWS CATAGORY",
+            "author": {
+                "name": "ITFORVN"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-11-09T22:40:59+07:00",
+            "date_modified": "2019-11-09T22:40:59+07:00"
+        },
+        {
+            "id": "https://vanlong2k.github.io/itforvn-blog-statics/hello-world.html",
+            "url": "https://vanlong2k.github.io/itforvn-blog-statics/hello-world.html",
+            "title": "HELLO WORLD",
+            "summary": "THIS IS MY FIRST POST ",
+            "content_html": "<h2 id=\"mcetoc_1dp8ctkc90\" class=\"align-center\">THIS IS MY FIRST POST</h2>\n<p> </p>",
+            "author": {
+                "name": "ITFORVN"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-11-09T22:36:20+07:00",
+            "date_modified": "2019-11-09T22:40:26+07:00"
+        }
+    ]
+}

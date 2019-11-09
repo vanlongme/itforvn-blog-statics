@@ -1,1 +1,0 @@
-# itforvn-blog-statics

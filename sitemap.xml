@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://vanlong2k.github.io/itforvn-blog-statics/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://vanlong2k.github.io/itforvn-blog-statics/</loc>
+</url>
+<url>
+<loc>https://vanlong2k.github.io/itforvn-blog-statics/hello-world.html</loc>
+<lastmod>2019-11-09T22:40:26+07:00</lastmod>
+</url>
+<url>
+<loc>https://vanlong2k.github.io/itforvn-blog-statics/windows.html</loc>
+<lastmod>2019-11-09T22:40:59+07:00</lastmod>
+</url>
+</urlset>

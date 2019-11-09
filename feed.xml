@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>ITFORVN Statics Blog Site</title>
+    <link href="https://vanlong2k.github.io/itforvn-blog-statics/feed.xml" rel="self" />
+    <link href="https://vanlong2k.github.io/itforvn-blog-statics" />
+    <updated>2019-11-09T22:42:23+07:00</updated>
+    <author>
+        <name>ITFORVN</name>
+    </author>
+    <id>https://vanlong2k.github.io/itforvn-blog-statics</id>
+
+    <entry>
+        <title>Windows</title>
+        <author>
+            <name>ITFORVN</name>
+        </author>
+        <link href="https://vanlong2k.github.io/itforvn-blog-statics/windows.html"/>
+        <id>https://vanlong2k.github.io/itforvn-blog-statics/windows.html</id>
+
+        <updated>2019-11-09T22:40:59+07:00</updated>
+            <summary>
+                <![CDATA[
+                    THIS POST IS IN WINDOWS CATAGORY
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                THIS POST IS IN WINDOWS CATAGORY
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>HELLO WORLD</title>
+        <author>
+            <name>ITFORVN</name>
+        </author>
+        <link href="https://vanlong2k.github.io/itforvn-blog-statics/hello-world.html"/>
+        <id>https://vanlong2k.github.io/itforvn-blog-statics/hello-world.html</id>
+
+        <updated>2019-11-09T22:40:26+07:00</updated>
+            <summary>
+                <![CDATA[
+                    THIS IS MY FIRST POST 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 id="mcetoc_1dp8ctkc90" class="align-center">THIS IS MY FIRST POST</h2>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
